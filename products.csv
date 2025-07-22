@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Subcategory,Cost_Price,Selling_Price,Stock_Quantity
+PROD00000,Smartphone Cause,Electronics,Smartphone,3233.19,321.32,291
+PROD00001,Jeans Boy,Clothing,Jeans,1299.97,1105.83,114
+PROD00002,Whole Wheat Bread Go,Groceries,Whole Wheat Bread,3415.83,6261.43,99
+PROD00003,Bookshelf Clearly,Furniture,Bookshelf,2993.41,367.71,105
+PROD00004,Action Figure Here,Toys,Action Figure,1171.33,3611.68,37
+PROD00005,Tablet Street,Electronics,Tablet,2850.1,5054.73,728
+PROD00006,T-Shirt Maintain,Clothing,T-Shirt,2770.21,1660.02,613
+PROD00007,Olive Oil Call,Groceries,Olive Oil,1463.13,6104.71,787
+PROD00008,Sofa Set Stop,Furniture,Sofa Set,4048.51,4932.25,358
+PROD00009,Stuffed Animal Yard,Toys,Stuffed Animal,1461.57,1624.9,791
+PROD00010,Bluetooth Speaker Building,Electronics,Bluetooth Speaker,1749.31,785.31,109
+PROD00011,Socks Treatment,Clothing,Socks,1859.0,2506.1,280
+PROD00012,Organic Rice Against,Groceries,Organic Rice,4054.93,5148.66,559
+PROD00013,Dining Table Recent,Furniture,Dining Table,711.65,6467.72,90
+PROD00014,Puzzle Game Final,Toys,Puzzle Game,2805.0,5831.42,643
+PROD00015,Smartwatch Reason,Electronics,Smartwatch,4438.71,2627.2,206
+PROD00016,Sweater Machine,Clothing,Sweater,3552.4,463.9,243
+PROD00017,Pasta Prevent,Groceries,Pasta,3888.03,6898.77,885
+PROD00018,Office Chair Industry,Furniture,Office Chair,1240.68,841.86,294
+PROD00019,RC Car Name,Toys,RC Car,2321.71,5863.66,176
+PROD00020,Headphones Increase,Electronics,Headphones,1913.89,1585.12,283
+PROD00021,Dress Laugh,Clothing,Dress,3538.92,4832.3,83
+PROD00022,Green Tea Increase,Groceries,Green Tea,3084.74,1322.3,756
+PROD00023,Coffee Table Everybody,Furniture,Coffee Table,1299.57,3316.48,286
+PROD00024,Lego Set Per,Toys,Lego Set,4948.66,4534.0,580
+PROD00025,Laptop Involve,Electronics,Laptop,1176.11,2371.34,796
+PROD00026,Jacket More,Clothing,Jacket,3902.4,1718.98,42
+PROD00027,Almonds Sense,Groceries,Almonds,4044.72,2897.98,77
+PROD00028,Wardrobe Economic,Furniture,Wardrobe,1133.82,6608.93,907
+PROD00029,Board Game Participant,Toys,Board Game,3617.78,1606.49,521
+PROD00030,Smartphone Kind,Electronics,Smartphone,2038.6,6414.65,479
+PROD00031,Jeans Quickly,Clothing,Jeans,800.07,1106.47,772
+PROD00032,Whole Wheat Bread Effort,Groceries,Whole Wheat Bread,2850.7,1949.78,608
+PROD00033,Bookshelf Play,Furniture,Bookshelf,2199.33,4147.2,380
+PROD00034,Action Figure Top,Toys,Action Figure,1174.67,6983.13,531
+PROD00035,Tablet Material,Electronics,Tablet,2518.23,5327.11,891
+PROD00036,T-Shirt Have,Clothing,T-Shirt,637.28,4448.01,821
+PROD00037,Olive Oil Sister,Groceries,Olive Oil,3434.36,4235.4,404
+PROD00038,Sofa Set Continue,Furniture,Sofa Set,1969.93,6973.43,551
+PROD00039,Stuffed Animal Provide,Toys,Stuffed Animal,1331.93,3939.6,975
+PROD00040,Bluetooth Speaker Audience,Electronics,Bluetooth Speaker,156.26,5086.94,708
+PROD00041,Socks Husband,Clothing,Socks,4435.46,5293.51,797
+PROD00042,Organic Rice Paper,Groceries,Organic Rice,3240.71,914.13,455
+PROD00043,Dining Table Car,Furniture,Dining Table,874.97,172.23,749
+PROD00044,Puzzle Game Finish,Toys,Puzzle Game,4391.68,1954.21,522
+PROD00045,Smartwatch Become,Electronics,Smartwatch,3833.61,3627.62,118
+PROD00046,Sweater Report,Clothing,Sweater,4365.54,2194.35,664
+PROD00047,Pasta Myself,Groceries,Pasta,2587.55,1512.54,392
+PROD00048,Office Chair Third,Furniture,Office Chair,3836.3,3844.75,807
+PROD00049,RC Car Least,Toys,RC Car,4619.93,6441.68,623
+PROD00050,Headphones Stuff,Electronics,Headphones,1688.36,283.42,961
+PROD00051,Dress Officer,Clothing,Dress,1878.61,6899.45,836
+PROD00052,Green Tea Film,Groceries,Green Tea,1606.82,546.79,909
+PROD00053,Coffee Table Of,Furniture,Coffee Table,2880.05,689.49,759
+PROD00054,Lego Set Only,Toys,Lego Set,2481.35,624.11,788
+PROD00055,Laptop Bill,Electronics,Laptop,2710.26,1011.46,685
+PROD00056,Jacket Meet,Clothing,Jacket,2428.88,3916.15,281
+PROD00057,Almonds Entire,Groceries,Almonds,2685.6,4305.17,997
+PROD00058,Wardrobe Section,Furniture,Wardrobe,1137.81,3844.18,757
+PROD00059,Board Game If,Toys,Board Game,3480.35,5033.7,418
+PROD00060,Smartphone Expect,Electronics,Smartphone,4976.23,4601.66,458
+PROD00061,Jeans Adult,Clothing,Jeans,4508.11,3242.68,263
+PROD00062,Whole Wheat Bread Person,Groceries,Whole Wheat Bread,1201.02,2465.89,612
+PROD00063,Bookshelf Interesting,Furniture,Bookshelf,2814.22,4180.81,17
+PROD00064,Action Figure These,Toys,Action Figure,447.87,4473.06,244
+PROD00065,Tablet Sure,Electronics,Tablet,430.26,365.18,348
+PROD00066,T-Shirt Rather,Clothing,T-Shirt,447.2,1780.33,695
+PROD00067,Olive Oil Chair,Groceries,Olive Oil,2478.53,3843.75,750
+PROD00068,Sofa Set Newspaper,Furniture,Sofa Set,4684.02,4061.65,494
+PROD00069,Stuffed Animal Cost,Toys,Stuffed Animal,1290.69,3389.86,426
+PROD00070,Bluetooth Speaker Analysis,Electronics,Bluetooth Speaker,1033.01,813.98,451
+PROD00071,Socks Change,Clothing,Socks,1836.06,2966.05,894
+PROD00072,Organic Rice Figure,Groceries,Organic Rice,3672.47,4762.55,671
+PROD00073,Dining Table Travel,Furniture,Dining Table,582.25,2907.96,357
+PROD00074,Puzzle Game Visit,Toys,Puzzle Game,4022.9,898.49,206
+PROD00075,Smartwatch Guess,Electronics,Smartwatch,1032.02,3223.0,442
+PROD00076,Sweater Before,Clothing,Sweater,999.09,3319.0,905
+PROD00077,Pasta Issue,Groceries,Pasta,4624.0,3185.45,892
+PROD00078,Office Chair Alone,Furniture,Office Chair,4294.24,820.67,677
+PROD00079,RC Car Mouth,Toys,RC Car,4996.48,5876.79,105
+PROD00080,Headphones Responsibility,Electronics,Headphones,4639.2,5963.57,180
+PROD00081,Dress On,Clothing,Dress,2091.43,3447.31,895
+PROD00082,Green Tea Agree,Groceries,Green Tea,2065.1,551.65,398
+PROD00083,Coffee Table Full,Furniture,Coffee Table,110.56,2824.39,958
+PROD00084,Lego Set Become,Toys,Lego Set,3941.95,3266.81,443
+PROD00085,Laptop Surface,Electronics,Laptop,3513.3,5153.96,812
+PROD00086,Jacket Team,Clothing,Jacket,2823.26,5071.1,168
+PROD00087,Almonds Cost,Groceries,Almonds,1030.5,1641.25,69
+PROD00088,Wardrobe Each,Furniture,Wardrobe,2937.98,3864.04,775
+PROD00089,Board Game Range,Toys,Board Game,1636.66,493.48,498
+PROD00090,Smartphone Question,Electronics,Smartphone,2563.97,5991.13,171
+PROD00091,Jeans Defense,Clothing,Jeans,378.71,3628.63,881
+PROD00092,Whole Wheat Bread Week,Groceries,Whole Wheat Bread,1010.54,4225.99,701
+PROD00093,Bookshelf Similar,Furniture,Bookshelf,4322.91,2915.86,974
+PROD00094,Action Figure Accept,Toys,Action Figure,4462.41,1836.58,618
+PROD00095,Tablet Kind,Electronics,Tablet,294.73,711.59,683
+PROD00096,T-Shirt Fund,Clothing,T-Shirt,2959.99,3731.06,967
+PROD00097,Olive Oil Need,Groceries,Olive Oil,1377.75,4737.62,331
+PROD00098,Sofa Set Pass,Furniture,Sofa Set,1269.56,2861.13,697
+PROD00099,Stuffed Animal Skin,Toys,Stuffed Animal,3262.95,3281.99,961
+PROD00100,Bluetooth Speaker Able,Electronics,Bluetooth Speaker,3784.14,646.92,479
+PROD00101,Socks Seven,Clothing,Socks,3143.68,4006.51,112
+PROD00102,Organic Rice Avoid,Groceries,Organic Rice,458.98,1610.11,281
+PROD00103,Dining Table Inside,Furniture,Dining Table,749.04,2540.71,80
+PROD00104,Puzzle Game Theory,Toys,Puzzle Game,4408.42,2681.26,171
+PROD00105,Smartwatch Prevent,Electronics,Smartwatch,2247.1,3871.04,319
+PROD00106,Sweater Customer,Clothing,Sweater,3097.22,6912.55,679
+PROD00107,Pasta Board,Groceries,Pasta,2691.81,4724.86,577
+PROD00108,Office Chair Behind,Furniture,Office Chair,1566.96,4694.21,971
+PROD00109,RC Car Tree,Toys,RC Car,4402.82,1961.59,921
+PROD00110,Headphones Rest,Electronics,Headphones,624.48,3939.58,288
+PROD00111,Dress His,Clothing,Dress,1480.61,1592.81,361
+PROD00112,Green Tea Training,Groceries,Green Tea,1097.63,4494.53,280
+PROD00113,Coffee Table Resource,Furniture,Coffee Table,2576.5,1870.18,939
+PROD00114,Lego Set Toward,Toys,Lego Set,4245.91,782.24,443
+PROD00115,Laptop Class,Electronics,Laptop,4163.81,451.99,351
+PROD00116,Jacket Strategy,Clothing,Jacket,3878.48,4514.23,278
+PROD00117,Almonds Red,Groceries,Almonds,891.75,3176.57,732
+PROD00118,Wardrobe Real,Furniture,Wardrobe,2195.67,216.24,87
+PROD00119,Board Game Community,Toys,Board Game,4730.75,4883.48,162
+PROD00120,Smartphone Unit,Electronics,Smartphone,2773.39,5866.98,606
+PROD00121,Jeans Card,Clothing,Jeans,2807.37,3094.04,52
+PROD00122,Whole Wheat Bread Certainly,Groceries,Whole Wheat Bread,1610.47,6308.02,825
+PROD00123,Bookshelf Specific,Furniture,Bookshelf,4863.76,423.28,376
+PROD00124,Action Figure Peace,Toys,Action Figure,1129.38,1859.28,115
+PROD00125,Tablet Girl,Electronics,Tablet,1833.03,3985.2,905
+PROD00126,T-Shirt Interview,Clothing,T-Shirt,2091.25,4401.53,168
+PROD00127,Olive Oil Game,Groceries,Olive Oil,4636.24,1771.65,176
+PROD00128,Sofa Set Into,Furniture,Sofa Set,4883.41,5703.79,912
+PROD00129,Stuffed Animal Boy,Toys,Stuffed Animal,2120.24,1378.62,956
+PROD00130,Bluetooth Speaker More,Electronics,Bluetooth Speaker,1727.71,6526.09,831
+PROD00131,Socks Administration,Clothing,Socks,3382.54,5185.14,264
+PROD00132,Organic Rice Also,Groceries,Organic Rice,1407.35,5543.52,120
+PROD00133,Dining Table Standard,Furniture,Dining Table,1974.45,415.26,491
+PROD00134,Puzzle Game About,Toys,Puzzle Game,1189.93,5743.62,481
+PROD00135,Smartwatch Effort,Electronics,Smartwatch,1813.33,5770.67,902
+PROD00136,Sweater White,Clothing,Sweater,1215.22,312.1,207
+PROD00137,Pasta Ask,Groceries,Pasta,2052.48,2058.43,81
+PROD00138,Office Chair Financial,Furniture,Office Chair,4837.76,2062.01,666
+PROD00139,RC Car Authority,Toys,RC Car,2596.09,4804.7,873
+PROD00140,Headphones Especially,Electronics,Headphones,2727.46,6583.77,128
+PROD00141,Dress Just,Clothing,Dress,4397.49,1939.32,604
+PROD00142,Green Tea Often,Groceries,Green Tea,4816.42,1968.44,121
+PROD00143,Coffee Table Fund,Furniture,Coffee Table,3023.2,2517.96,815
+PROD00144,Lego Set Government,Toys,Lego Set,1637.02,4302.53,533
+PROD00145,Laptop Better,Electronics,Laptop,666.66,6311.61,204
+PROD00146,Jacket Pressure,Clothing,Jacket,1348.14,5005.18,11
+PROD00147,Almonds With,Groceries,Almonds,2647.61,5674.6,713
+PROD00148,Wardrobe Hit,Furniture,Wardrobe,3625.21,5232.36,696
+PROD00149,Board Game Page,Toys,Board Game,1065.47,3104.39,981
+PROD00150,Smartphone Form,Electronics,Smartphone,3354.76,2411.87,331
+PROD00151,Jeans School,Clothing,Jeans,3350.6,1003.68,931
+PROD00152,Whole Wheat Bread Investment,Groceries,Whole Wheat Bread,1571.58,2268.6,428
+PROD00153,Bookshelf Create,Furniture,Bookshelf,1698.3,4925.88,577
+PROD00154,Action Figure Fly,Toys,Action Figure,723.71,3030.06,972
+PROD00155,Tablet Admit,Electronics,Tablet,1957.81,5274.72,188
+PROD00156,T-Shirt Necessary,Clothing,T-Shirt,3116.02,2211.51,571
+PROD00157,Olive Oil Build,Groceries,Olive Oil,4185.25,2231.54,225
+PROD00158,Sofa Set Culture,Furniture,Sofa Set,2206.45,4122.9,680
+PROD00159,Stuffed Animal Decision,Toys,Stuffed Animal,1679.02,3176.23,701
+PROD00160,Bluetooth Speaker Kid,Electronics,Bluetooth Speaker,1147.14,3391.33,932
+PROD00161,Socks Eye,Clothing,Socks,4803.18,5191.34,684
+PROD00162,Organic Rice Area,Groceries,Organic Rice,515.5,3680.85,658
+PROD00163,Dining Table Staff,Furniture,Dining Table,3134.38,789.7,984
+PROD00164,Puzzle Game Important,Toys,Puzzle Game,3780.58,4758.65,240
+PROD00165,Smartwatch Watch,Electronics,Smartwatch,4052.16,1159.37,57
+PROD00166,Sweater Clearly,Clothing,Sweater,1299.73,3404.68,880
+PROD00167,Pasta Process,Groceries,Pasta,3865.6,3269.6,917
+PROD00168,Office Chair Continue,Furniture,Office Chair,3185.85,1481.88,723
+PROD00169,RC Car Pm,Toys,RC Car,1981.49,2887.62,161
+PROD00170,Headphones Method,Electronics,Headphones,3314.68,187.98,778
+PROD00171,Dress True,Clothing,Dress,4316.16,6215.44,807
+PROD00172,Green Tea Picture,Groceries,Green Tea,2183.22,1354.82,990
+PROD00173,Coffee Table Body,Furniture,Coffee Table,3509.97,3332.17,580
+PROD00174,Lego Set This,Toys,Lego Set,1321.07,5961.1,477
+PROD00175,Laptop Series,Electronics,Laptop,753.36,3332.81,553
+PROD00176,Jacket Few,Clothing,Jacket,4940.67,4228.85,982
+PROD00177,Almonds Act,Groceries,Almonds,3800.73,3181.63,844
+PROD00178,Wardrobe Majority,Furniture,Wardrobe,3624.44,3607.73,860
+PROD00179,Board Game Bank,Toys,Board Game,4543.59,3204.51,172
+PROD00180,Smartphone Face,Electronics,Smartphone,3743.91,3401.52,275
+PROD00181,Jeans Country,Clothing,Jeans,3783.71,5903.06,293
+PROD00182,Whole Wheat Bread Arrive,Groceries,Whole Wheat Bread,3852.49,3720.9,651
+PROD00183,Bookshelf Seek,Furniture,Bookshelf,1272.3,3163.13,740
+PROD00184,Action Figure Realize,Toys,Action Figure,1500.07,2011.25,337
+PROD00185,Tablet Southern,Electronics,Tablet,4475.83,701.96,164
+PROD00186,T-Shirt Something,Clothing,T-Shirt,1233.18,4903.56,733
+PROD00187,Olive Oil Different,Groceries,Olive Oil,1148.37,2991.85,348
+PROD00188,Sofa Set Away,Furniture,Sofa Set,2758.79,2998.05,221
+PROD00189,Stuffed Animal True,Toys,Stuffed Animal,4181.17,2817.92,798
+PROD00190,Bluetooth Speaker Computer,Electronics,Bluetooth Speaker,2961.99,4914.33,887
+PROD00191,Socks Million,Clothing,Socks,4415.22,4093.48,498
+PROD00192,Organic Rice Thus,Groceries,Organic Rice,128.89,2559.55,781
+PROD00193,Dining Table Try,Furniture,Dining Table,2010.93,6257.74,865
+PROD00194,Puzzle Game Our,Toys,Puzzle Game,2153.2,5270.48,569
+PROD00195,Smartwatch Want,Electronics,Smartwatch,4019.35,6300.01,509
+PROD00196,Sweater Scientist,Clothing,Sweater,1175.17,3135.48,39
+PROD00197,Pasta Style,Groceries,Pasta,2005.4,4731.78,827
+PROD00198,Office Chair Amount,Furniture,Office Chair,2081.15,1280.56,488
+PROD00199,RC Car Guess,Toys,RC Car,4605.75,6867.95,556
+PROD00200,Headphones Down,Electronics,Headphones,232.14,2849.04,587
+PROD00201,Dress Possible,Clothing,Dress,3348.7,725.04,448
+PROD00202,Green Tea However,Groceries,Green Tea,764.93,3312.63,61
+PROD00203,Coffee Table Nice,Furniture,Coffee Table,1374.77,2392.37,475
+PROD00204,Lego Set Beautiful,Toys,Lego Set,1701.54,5364.42,398
+PROD00205,Laptop Occur,Electronics,Laptop,1463.46,6665.75,441
+PROD00206,Jacket Budget,Clothing,Jacket,1336.13,711.06,29
+PROD00207,Almonds Worker,Groceries,Almonds,3770.22,506.79,984
+PROD00208,Wardrobe Note,Furniture,Wardrobe,1814.81,4603.49,809
+PROD00209,Board Game Space,Toys,Board Game,4790.7,425.77,41
+PROD00210,Smartphone Case,Electronics,Smartphone,4753.1,1515.62,30
+PROD00211,Jeans Raise,Clothing,Jeans,3144.54,1784.03,494
+PROD00212,Whole Wheat Bread Decision,Groceries,Whole Wheat Bread,3380.35,4013.19,233
+PROD00213,Bookshelf Head,Furniture,Bookshelf,2378.67,1905.27,387
+PROD00214,Action Figure Century,Toys,Action Figure,922.17,4309.65,775
+PROD00215,Tablet Large,Electronics,Tablet,3619.95,5477.87,177
+PROD00216,T-Shirt Action,Clothing,T-Shirt,4827.13,890.48,36
+PROD00217,Olive Oil Paper,Groceries,Olive Oil,4651.55,4094.21,939
+PROD00218,Sofa Set Quality,Furniture,Sofa Set,4795.05,2867.08,742
+PROD00219,Stuffed Animal Rock,Toys,Stuffed Animal,1071.82,4205.87,860
+PROD00220,Bluetooth Speaker Challenge,Electronics,Bluetooth Speaker,3173.49,848.02,801
+PROD00221,Socks Forward,Clothing,Socks,1577.76,4837.17,834
+PROD00222,Organic Rice Value,Groceries,Organic Rice,693.17,6889.33,811
+PROD00223,Dining Table Any,Furniture,Dining Table,301.24,3799.3,687
+PROD00224,Puzzle Game Six,Toys,Puzzle Game,1915.8,3615.83,359
+PROD00225,Smartwatch Race,Electronics,Smartwatch,162.0,3027.4,511
+PROD00226,Sweater Up,Clothing,Sweater,617.14,6731.39,660
+PROD00227,Pasta Scientist,Groceries,Pasta,4468.72,3299.21,166
+PROD00228,Office Chair Author,Furniture,Office Chair,2233.89,5176.5,998
+PROD00229,RC Car Herself,Toys,RC Car,3287.24,4369.0,951
+PROD00230,Headphones Imagine,Electronics,Headphones,2737.05,3461.96,456
+PROD00231,Dress Across,Clothing,Dress,4146.1,4208.45,340
+PROD00232,Green Tea Human,Groceries,Green Tea,4273.39,5840.51,98
+PROD00233,Coffee Table Time,Furniture,Coffee Table,1466.75,3237.99,778
+PROD00234,Lego Set Measure,Toys,Lego Set,2377.07,4330.77,398
+PROD00235,Laptop Apply,Electronics,Laptop,1748.34,3536.0,342
+PROD00236,Jacket High,Clothing,Jacket,991.02,1603.02,826
+PROD00237,Almonds Seat,Groceries,Almonds,1365.93,2065.66,620
+PROD00238,Wardrobe May,Furniture,Wardrobe,3535.8,2042.44,20
+PROD00239,Board Game Plant,Toys,Board Game,2631.47,1458.74,257
+PROD00240,Smartphone Account,Electronics,Smartphone,3628.37,3496.76,786
+PROD00241,Jeans Really,Clothing,Jeans,1277.59,3411.24,738
+PROD00242,Whole Wheat Bread Full,Groceries,Whole Wheat Bread,2505.02,5581.59,105
+PROD00243,Bookshelf Key,Furniture,Bookshelf,1541.75,2920.15,259
+PROD00244,Action Figure Production,Toys,Action Figure,1600.41,4133.66,494
+PROD00245,Tablet Poor,Electronics,Tablet,2812.02,2504.74,773
+PROD00246,T-Shirt Look,Clothing,T-Shirt,2796.9,2559.9,474
+PROD00247,Olive Oil Just,Groceries,Olive Oil,1427.49,1872.12,133
+PROD00248,Sofa Set Matter,Furniture,Sofa Set,3634.29,2311.5,770
+PROD00249,Stuffed Animal Next,Toys,Stuffed Animal,2725.73,5371.0,199
+PROD00250,Bluetooth Speaker Last,Electronics,Bluetooth Speaker,1038.55,5209.44,293
+PROD00251,Socks Economy,Clothing,Socks,3650.47,6839.76,547
+PROD00252,Organic Rice How,Groceries,Organic Rice,3024.27,6866.5,862
+PROD00253,Dining Table Parent,Furniture,Dining Table,1051.18,1708.26,193
+PROD00254,Puzzle Game Across,Toys,Puzzle Game,1581.11,4999.93,139
+PROD00255,Smartwatch Decide,Electronics,Smartwatch,1444.13,6823.92,576
+PROD00256,Sweater Ready,Clothing,Sweater,1531.47,6617.01,663
+PROD00257,Pasta Interesting,Groceries,Pasta,4355.46,3512.52,903
+PROD00258,Office Chair Director,Furniture,Office Chair,160.1,2097.72,500
+PROD00259,RC Car Company,Toys,RC Car,2258.3,1412.89,62
+PROD00260,Headphones Can,Electronics,Headphones,1337.14,6052.8,126
+PROD00261,Dress Someone,Clothing,Dress,4128.37,2894.85,85
+PROD00262,Green Tea Certain,Groceries,Green Tea,2927.4,4852.19,165
+PROD00263,Coffee Table Until,Furniture,Coffee Table,831.07,4005.45,321
+PROD00264,Lego Set Industry,Toys,Lego Set,517.39,1850.11,581
+PROD00265,Laptop Rather,Electronics,Laptop,3845.77,4303.28,819
+PROD00266,Jacket Gas,Clothing,Jacket,3130.25,5463.5,399
+PROD00267,Almonds Parent,Groceries,Almonds,2307.52,3182.64,890
+PROD00268,Wardrobe Usually,Furniture,Wardrobe,2983.77,3087.48,592
+PROD00269,Board Game Then,Toys,Board Game,3143.03,4325.97,767
+PROD00270,Smartphone Mouth,Electronics,Smartphone,586.24,5374.75,650
+PROD00271,Jeans Night,Clothing,Jeans,1134.02,4673.93,170
+PROD00272,Whole Wheat Bread Purpose,Groceries,Whole Wheat Bread,1275.34,3931.15,170
+PROD00273,Bookshelf Civil,Furniture,Bookshelf,113.11,3235.95,618
+PROD00274,Action Figure Four,Toys,Action Figure,2402.57,373.58,305
+PROD00275,Tablet Health,Electronics,Tablet,3564.08,4965.46,474
+PROD00276,T-Shirt Sense,Clothing,T-Shirt,448.78,1748.95,280
+PROD00277,Olive Oil Guy,Groceries,Olive Oil,3960.36,4431.65,687
+PROD00278,Sofa Set Section,Furniture,Sofa Set,4039.14,1505.06,127
+PROD00279,Stuffed Animal Make,Toys,Stuffed Animal,2768.36,4586.3,940
+PROD00280,Bluetooth Speaker Citizen,Electronics,Bluetooth Speaker,1401.6,1124.32,71
+PROD00281,Socks Group,Clothing,Socks,913.02,2257.14,776
+PROD00282,Organic Rice Enjoy,Groceries,Organic Rice,4138.78,6460.17,459
+PROD00283,Dining Table Better,Furniture,Dining Table,709.33,4867.44,726
+PROD00284,Puzzle Game Important,Toys,Puzzle Game,2072.29,2014.89,562
+PROD00285,Smartwatch Season,Electronics,Smartwatch,2519.6,701.03,50
+PROD00286,Sweater Together,Clothing,Sweater,4458.17,5181.56,628
+PROD00287,Pasta Page,Groceries,Pasta,1326.8,775.59,994
+PROD00288,Office Chair Main,Furniture,Office Chair,3404.06,6044.54,611
+PROD00289,RC Car Quality,Toys,RC Car,4758.85,6997.07,698
+PROD00290,Headphones Right,Electronics,Headphones,4124.96,4097.29,791
+PROD00291,Dress Left,Clothing,Dress,3805.72,3372.93,677
+PROD00292,Green Tea Event,Groceries,Green Tea,2266.92,2055.37,609
+PROD00293,Coffee Table Everyone,Furniture,Coffee Table,2235.84,5727.58,103
+PROD00294,Lego Set Chance,Toys,Lego Set,2403.05,2947.18,338
+PROD00295,Laptop Billion,Electronics,Laptop,3383.65,6025.47,347
+PROD00296,Jacket Table,Clothing,Jacket,2117.06,3543.96,688
+PROD00297,Almonds Give,Groceries,Almonds,4731.45,5722.93,573
+PROD00298,Wardrobe Experience,Furniture,Wardrobe,279.82,753.21,268
+PROD00299,Board Game Produce,Toys,Board Game,1684.04,6795.77,423
+PROD00300,Smartphone Thank,Electronics,Smartphone,4338.06,5800.75,11
+PROD00301,Jeans Than,Clothing,Jeans,3322.54,3866.77,433
+PROD00302,Whole Wheat Bread Hour,Groceries,Whole Wheat Bread,365.6,3701.31,647
+PROD00303,Bookshelf Against,Furniture,Bookshelf,3806.57,4434.05,788
+PROD00304,Action Figure Step,Toys,Action Figure,352.9,1979.34,144
+PROD00305,Tablet Condition,Electronics,Tablet,4645.6,3151.1,725
+PROD00306,T-Shirt Else,Clothing,T-Shirt,2475.09,347.76,655
+PROD00307,Olive Oil Audience,Groceries,Olive Oil,3083.47,1789.19,172
+PROD00308,Sofa Set Listen,Furniture,Sofa Set,1622.68,243.67,427
+PROD00309,Stuffed Animal Quickly,Toys,Stuffed Animal,556.73,6946.96,944
+PROD00310,Bluetooth Speaker Drive,Electronics,Bluetooth Speaker,655.96,6637.37,673
+PROD00311,Socks Girl,Clothing,Socks,4177.5,3563.87,743
+PROD00312,Organic Rice Address,Groceries,Organic Rice,1530.12,4982.07,435
+PROD00313,Dining Table Social,Furniture,Dining Table,4190.15,6864.68,259
+PROD00314,Puzzle Game Consumer,Toys,Puzzle Game,2338.25,1140.8,205
+PROD00315,Smartwatch Mrs,Electronics,Smartwatch,4617.15,3631.45,910
+PROD00316,Sweater Figure,Clothing,Sweater,768.89,628.2,801
+PROD00317,Pasta Conference,Groceries,Pasta,3971.03,2992.36,966
+PROD00318,Office Chair Customer,Furniture,Office Chair,3959.82,1980.13,12
+PROD00319,RC Car Reach,Toys,RC Car,1485.91,2195.11,611
+PROD00320,Headphones Center,Electronics,Headphones,2941.62,4670.59,896
+PROD00321,Dress Day,Clothing,Dress,828.12,3839.28,363
+PROD00322,Green Tea Cost,Groceries,Green Tea,1728.96,5375.68,396
+PROD00323,Coffee Table None,Furniture,Coffee Table,2331.19,2354.17,203
+PROD00324,Lego Set Church,Toys,Lego Set,4905.8,1785.82,402
+PROD00325,Laptop Put,Electronics,Laptop,1244.46,5462.48,54
+PROD00326,Jacket Program,Clothing,Jacket,1659.06,3389.89,945
+PROD00327,Almonds Radio,Groceries,Almonds,4075.9,2794.64,689
+PROD00328,Wardrobe Simply,Furniture,Wardrobe,3982.73,4616.33,165
+PROD00329,Board Game Budget,Toys,Board Game,2527.11,403.58,524
+PROD00330,Smartphone Wonder,Electronics,Smartphone,4830.23,2424.16,112
+PROD00331,Jeans Environment,Clothing,Jeans,4383.53,3166.1,548
+PROD00332,Whole Wheat Bread Two,Groceries,Whole Wheat Bread,4561.16,255.13,157
+PROD00333,Bookshelf Tell,Furniture,Bookshelf,2108.9,4635.25,168
+PROD00334,Action Figure Dark,Toys,Action Figure,466.66,5503.45,281
+PROD00335,Tablet Production,Electronics,Tablet,1758.95,4895.03,675
+PROD00336,T-Shirt Suggest,Clothing,T-Shirt,493.55,2400.67,700
+PROD00337,Olive Oil Yes,Groceries,Olive Oil,4310.78,2753.06,334
+PROD00338,Sofa Set Light,Furniture,Sofa Set,3171.32,6228.95,509
+PROD00339,Stuffed Animal Beyond,Toys,Stuffed Animal,4374.68,395.91,80
+PROD00340,Bluetooth Speaker Up,Electronics,Bluetooth Speaker,1250.37,4838.14,304
+PROD00341,Socks New,Clothing,Socks,4987.39,5265.35,454
+PROD00342,Organic Rice These,Groceries,Organic Rice,4893.85,5358.53,730
+PROD00343,Dining Table Recognize,Furniture,Dining Table,4375.64,3189.2,720
+PROD00344,Puzzle Game Personal,Toys,Puzzle Game,1567.38,348.29,342
+PROD00345,Smartwatch Land,Electronics,Smartwatch,4001.1,2159.57,393
+PROD00346,Sweater Interview,Clothing,Sweater,2210.37,1822.75,431
+PROD00347,Pasta Various,Groceries,Pasta,2873.05,5578.76,184
+PROD00348,Office Chair Create,Furniture,Office Chair,957.84,4325.02,401
+PROD00349,RC Car Cost,Toys,RC Car,3136.58,1799.68,944
+PROD00350,Headphones Increase,Electronics,Headphones,2957.47,1740.49,663
+PROD00351,Dress Tree,Clothing,Dress,1344.49,1898.99,19
+PROD00352,Green Tea Tell,Groceries,Green Tea,4504.65,3336.98,304
+PROD00353,Coffee Table Family,Furniture,Coffee Table,3420.29,1232.13,462
+PROD00354,Lego Set Or,Toys,Lego Set,4731.65,6915.41,316
+PROD00355,Laptop Opportunity,Electronics,Laptop,3230.8,3056.52,266
+PROD00356,Jacket Court,Clothing,Jacket,2338.5,2219.53,403
+PROD00357,Almonds Art,Groceries,Almonds,4281.34,880.57,400
+PROD00358,Wardrobe Perhaps,Furniture,Wardrobe,2902.42,4087.46,726
+PROD00359,Board Game Power,Toys,Board Game,1546.63,6848.92,684
+PROD00360,Smartphone Already,Electronics,Smartphone,2039.45,205.47,895
+PROD00361,Jeans Require,Clothing,Jeans,3460.42,5250.98,60
+PROD00362,Whole Wheat Bread Method,Groceries,Whole Wheat Bread,4562.02,5254.43,862
+PROD00363,Bookshelf Bed,Furniture,Bookshelf,4530.36,2110.43,828
+PROD00364,Action Figure Grow,Toys,Action Figure,1227.58,5643.23,234
+PROD00365,Tablet By,Electronics,Tablet,3219.43,4403.1,704
+PROD00366,T-Shirt Reflect,Clothing,T-Shirt,3802.33,5407.17,707
+PROD00367,Olive Oil Where,Groceries,Olive Oil,4207.85,4453.5,935
+PROD00368,Sofa Set Open,Furniture,Sofa Set,3174.54,420.04,817
+PROD00369,Stuffed Animal Month,Toys,Stuffed Animal,2260.03,4120.08,759
+PROD00370,Bluetooth Speaker Measure,Electronics,Bluetooth Speaker,743.92,6380.95,344
+PROD00371,Socks Often,Clothing,Socks,3762.66,1353.13,145
+PROD00372,Organic Rice After,Groceries,Organic Rice,3953.91,6153.76,384
+PROD00373,Dining Table Chance,Furniture,Dining Table,2701.18,6407.39,860
+PROD00374,Puzzle Game Process,Toys,Puzzle Game,906.27,6411.24,976
+PROD00375,Smartwatch Work,Electronics,Smartwatch,2461.05,5674.45,774
+PROD00376,Sweater Choose,Clothing,Sweater,4364.95,5658.99,489
+PROD00377,Pasta Plant,Groceries,Pasta,4818.18,1114.19,999
+PROD00378,Office Chair Bill,Furniture,Office Chair,1205.51,4782.82,700
+PROD00379,RC Car News,Toys,RC Car,4901.72,6775.8,833
+PROD00380,Headphones More,Electronics,Headphones,2830.83,768.57,414
+PROD00381,Dress Sort,Clothing,Dress,168.2,3825.52,475
+PROD00382,Green Tea Back,Groceries,Green Tea,1906.07,5280.73,278
+PROD00383,Coffee Table Media,Furniture,Coffee Table,2964.34,5783.56,972
+PROD00384,Lego Set Thus,Toys,Lego Set,1920.22,4772.63,492
+PROD00385,Laptop Trial,Electronics,Laptop,222.62,6207.01,584
+PROD00386,Jacket Some,Clothing,Jacket,1707.23,4329.06,673
+PROD00387,Almonds Term,Groceries,Almonds,409.76,5793.41,941
+PROD00388,Wardrobe Say,Furniture,Wardrobe,3535.28,4597.29,129
+PROD00389,Board Game Doctor,Toys,Board Game,784.91,6631.89,321
+PROD00390,Smartphone Newspaper,Electronics,Smartphone,4980.04,945.43,250
+PROD00391,Jeans Over,Clothing,Jeans,4447.57,1079.3,474
+PROD00392,Whole Wheat Bread Inside,Groceries,Whole Wheat Bread,1917.96,6653.26,723
+PROD00393,Bookshelf Subject,Furniture,Bookshelf,4735.27,3021.02,770
+PROD00394,Action Figure Ask,Toys,Action Figure,3660.34,6215.08,680
+PROD00395,Tablet By,Electronics,Tablet,585.21,3502.03,427
+PROD00396,T-Shirt Collection,Clothing,T-Shirt,4701.36,2066.22,716
+PROD00397,Olive Oil Media,Groceries,Olive Oil,1915.6,3187.17,983
+PROD00398,Sofa Set Dream,Furniture,Sofa Set,1256.95,2634.4,712
+PROD00399,Stuffed Animal Speak,Toys,Stuffed Animal,1899.94,6326.62,670
+PROD00400,Bluetooth Speaker Radio,Electronics,Bluetooth Speaker,1857.5,2877.26,204
+PROD00401,Socks Physical,Clothing,Socks,4844.21,6650.72,853
+PROD00402,Organic Rice Expect,Groceries,Organic Rice,2328.12,4689.97,667
+PROD00403,Dining Table Case,Furniture,Dining Table,3233.52,6801.99,61
+PROD00404,Puzzle Game Treatment,Toys,Puzzle Game,3955.29,1818.45,138
+PROD00405,Smartwatch Speak,Electronics,Smartwatch,3956.19,1555.66,859
+PROD00406,Sweater Article,Clothing,Sweater,3849.27,1569.03,231
+PROD00407,Pasta Air,Groceries,Pasta,4083.96,1746.04,802
+PROD00408,Office Chair Human,Furniture,Office Chair,823.02,6318.64,12
+PROD00409,RC Car Yes,Toys,RC Car,1458.65,6890.59,143
+PROD00410,Headphones Specific,Electronics,Headphones,2747.06,5619.82,122
+PROD00411,Dress Likely,Clothing,Dress,3339.18,326.59,25
+PROD00412,Green Tea Relate,Groceries,Green Tea,1855.39,5550.76,612
+PROD00413,Coffee Table Program,Furniture,Coffee Table,1686.48,1343.59,63
+PROD00414,Lego Set Leader,Toys,Lego Set,721.12,3033.58,126
+PROD00415,Laptop Chance,Electronics,Laptop,3753.76,3412.28,806
+PROD00416,Jacket Cell,Clothing,Jacket,1873.99,4216.61,472
+PROD00417,Almonds Toward,Groceries,Almonds,2568.81,6626.1,54
+PROD00418,Wardrobe Finish,Furniture,Wardrobe,3663.49,6374.95,684
+PROD00419,Board Game Amount,Toys,Board Game,2655.11,3287.59,997
+PROD00420,Smartphone Focus,Electronics,Smartphone,252.64,6990.32,877
+PROD00421,Jeans Together,Clothing,Jeans,2067.92,4849.77,512
+PROD00422,Whole Wheat Bread Degree,Groceries,Whole Wheat Bread,3590.77,3188.4,930
+PROD00423,Bookshelf Perhaps,Furniture,Bookshelf,495.87,4316.84,77
+PROD00424,Action Figure Apply,Toys,Action Figure,718.34,4426.57,609
+PROD00425,Tablet First,Electronics,Tablet,2786.95,2377.52,621
+PROD00426,T-Shirt Stop,Clothing,T-Shirt,2699.73,3257.95,629
+PROD00427,Olive Oil Commercial,Groceries,Olive Oil,2207.98,5582.71,127
+PROD00428,Sofa Set Cut,Furniture,Sofa Set,4278.68,4608.78,797
+PROD00429,Stuffed Animal Office,Toys,Stuffed Animal,2801.54,6078.62,450
+PROD00430,Bluetooth Speaker Be,Electronics,Bluetooth Speaker,2312.62,1715.18,357
+PROD00431,Socks During,Clothing,Socks,4154.35,2881.3,757
+PROD00432,Organic Rice Security,Groceries,Organic Rice,565.92,3073.33,691
+PROD00433,Dining Table Cup,Furniture,Dining Table,1348.96,6682.11,713
+PROD00434,Puzzle Game Too,Toys,Puzzle Game,4622.63,609.86,861
+PROD00435,Smartwatch Skin,Electronics,Smartwatch,518.29,3108.35,772
+PROD00436,Sweater Stand,Clothing,Sweater,3720.1,5710.62,579
+PROD00437,Pasta Likely,Groceries,Pasta,393.91,6702.88,585
+PROD00438,Office Chair Hair,Furniture,Office Chair,1715.27,987.28,372
+PROD00439,RC Car Minute,Toys,RC Car,4380.68,6596.74,443
+PROD00440,Headphones Crime,Electronics,Headphones,4353.65,5089.27,304
+PROD00441,Dress Attention,Clothing,Dress,3042.01,2558.78,601
+PROD00442,Green Tea Describe,Groceries,Green Tea,2586.32,1209.9,503
+PROD00443,Coffee Table Reason,Furniture,Coffee Table,1198.8,891.3,875
+PROD00444,Lego Set Both,Toys,Lego Set,2825.7,936.96,295
+PROD00445,Laptop Arrive,Electronics,Laptop,2913.09,5679.47,875
+PROD00446,Jacket Each,Clothing,Jacket,2848.73,5406.91,646
+PROD00447,Almonds Such,Groceries,Almonds,3106.51,4552.49,36
+PROD00448,Wardrobe Onto,Furniture,Wardrobe,3084.08,4656.14,720
+PROD00449,Board Game Rule,Toys,Board Game,1410.49,1385.85,729
+PROD00450,Smartphone Boy,Electronics,Smartphone,3835.81,6462.53,369
+PROD00451,Jeans Door,Clothing,Jeans,129.92,6108.56,589
+PROD00452,Whole Wheat Bread Industry,Groceries,Whole Wheat Bread,3320.99,626.66,768
+PROD00453,Bookshelf Mother,Furniture,Bookshelf,3202.54,360.0,774
+PROD00454,Action Figure Wind,Toys,Action Figure,2699.37,2726.93,474
+PROD00455,Tablet Certain,Electronics,Tablet,1770.39,2684.86,748
+PROD00456,T-Shirt Appear,Clothing,T-Shirt,1689.48,6598.64,620
+PROD00457,Olive Oil Whatever,Groceries,Olive Oil,516.29,510.37,171
+PROD00458,Sofa Set Movie,Furniture,Sofa Set,3796.74,490.87,93
+PROD00459,Stuffed Animal Call,Toys,Stuffed Animal,1433.3,4684.28,507
+PROD00460,Bluetooth Speaker Media,Electronics,Bluetooth Speaker,3074.67,2987.16,230
+PROD00461,Socks Fund,Clothing,Socks,3799.22,929.65,450
+PROD00462,Organic Rice Less,Groceries,Organic Rice,643.36,4795.79,617
+PROD00463,Dining Table Case,Furniture,Dining Table,2484.5,4719.86,56
+PROD00464,Puzzle Game Degree,Toys,Puzzle Game,1180.54,6893.45,66
+PROD00465,Smartwatch Citizen,Electronics,Smartwatch,137.67,2214.72,226
+PROD00466,Sweater Enter,Clothing,Sweater,3860.01,5384.5,306
+PROD00467,Pasta Military,Groceries,Pasta,1707.8,202.95,774
+PROD00468,Office Chair Necessary,Furniture,Office Chair,2210.21,1034.92,555
+PROD00469,RC Car Watch,Toys,RC Car,3547.99,3576.8,863
+PROD00470,Headphones Agreement,Electronics,Headphones,3373.44,2576.05,416
+PROD00471,Dress This,Clothing,Dress,4322.65,439.77,29
+PROD00472,Green Tea Size,Groceries,Green Tea,2352.8,683.36,330
+PROD00473,Coffee Table Deep,Furniture,Coffee Table,2921.22,4077.79,736
+PROD00474,Lego Set Six,Toys,Lego Set,3236.69,2133.18,424
+PROD00475,Laptop Student,Electronics,Laptop,202.2,2374.66,830
+PROD00476,Jacket Shake,Clothing,Jacket,4743.31,3301.66,716
+PROD00477,Almonds Increase,Groceries,Almonds,4606.87,753.69,874
+PROD00478,Wardrobe Keep,Furniture,Wardrobe,618.73,3134.38,420
+PROD00479,Board Game Box,Toys,Board Game,2667.42,2861.0,327
+PROD00480,Smartphone So,Electronics,Smartphone,3754.44,1667.77,807
+PROD00481,Jeans Remember,Clothing,Jeans,923.85,3646.81,126
+PROD00482,Whole Wheat Bread Available,Groceries,Whole Wheat Bread,2699.96,1478.24,804
+PROD00483,Bookshelf Near,Furniture,Bookshelf,1811.94,5132.55,848
+PROD00484,Action Figure Purpose,Toys,Action Figure,3262.67,1161.68,115
+PROD00485,Tablet My,Electronics,Tablet,817.58,1501.31,626
+PROD00486,T-Shirt Contain,Clothing,T-Shirt,849.06,5350.19,87
+PROD00487,Olive Oil Stand,Groceries,Olive Oil,968.02,5444.01,515
+PROD00488,Sofa Set Develop,Furniture,Sofa Set,2373.37,4011.59,603
+PROD00489,Stuffed Animal Free,Toys,Stuffed Animal,2299.64,6480.46,588
+PROD00490,Bluetooth Speaker Exactly,Electronics,Bluetooth Speaker,3250.66,6907.74,340
+PROD00491,Socks Less,Clothing,Socks,4334.81,4446.44,164
+PROD00492,Organic Rice Career,Groceries,Organic Rice,2254.84,3362.11,656
+PROD00493,Dining Table Field,Furniture,Dining Table,1583.82,2031.51,67
+PROD00494,Puzzle Game Send,Toys,Puzzle Game,1824.52,658.21,482
+PROD00495,Smartwatch Low,Electronics,Smartwatch,2314.38,539.7,861
+PROD00496,Sweater Character,Clothing,Sweater,1506.68,4565.97,885
+PROD00497,Pasta Enough,Groceries,Pasta,542.45,4219.45,403
+PROD00498,Office Chair Might,Furniture,Office Chair,2367.29,3947.07,820
+PROD00499,RC Car Bed,Toys,RC Car,3720.71,431.01,940
